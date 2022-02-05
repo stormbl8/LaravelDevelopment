@@ -29,6 +29,7 @@ To set up the Laravel application, initiate a container in the php-apache contai
 * `composer create-project laravel/laravel .`
 
 * Once this is completed, navigate to http://localhost/ which should display the default Laravel welcome page.
+* for phpadmin page; navigate to http://localhost:8080 (by default with my .env settings) which should display the default PhpAdminPage.
 
 ##  Configuration and Usage
 
