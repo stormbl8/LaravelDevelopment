@@ -94,6 +94,6 @@ RUN a2enmod rewrite headers
 # Cleanup
 RUN rm -rf /usr/src/*
 WORKDIR /var/www/laravel_docker
-
 # shell
 RUN chmod -R 777 /var/www/
+
