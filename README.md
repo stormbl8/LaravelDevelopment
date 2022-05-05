@@ -42,3 +42,4 @@ This package comes with default configuration options. You can modify them by ch
 ### Configuration Variables
 There are following configuration variables available and you can customize them by overwritting in your own `.env` file.
 
+### Configurations-Extra
